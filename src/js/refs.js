@@ -1,6 +1,6 @@
 export default {
-    body: document.querySelector('.theme-switch-toggle'),
-    them: document.querySelector('.body'),
-    list: document.querySelector('.js-menu'),
-    listIgred: document.querySelector('.tag-list')
+    check: document.querySelector('.theme-switch-toggle'),
+    switchControl: document.querySelector('.theme-switch__control'),
+    body: document.querySelector('body'),
+    listMenu: document.querySelector('.js-menu')
 }
